@@ -31,4 +31,4 @@ if (position_taken?(board, index)) == false && (on_board?(index) == true)
   end
 end
 =======
->>>>>>> 2064ffbb7e534761cec86c46f1895c3e6c2cdee9
+
